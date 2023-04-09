@@ -1,0 +1,19 @@
+{
+  "name": "page_landing_demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  },
+  "description": "simple landing page usign scss",
+  "main": "main.js",
+  "dependencies": {},
+  "author": "Avraham Bukaya",
+  "license": "ISC"
+}
